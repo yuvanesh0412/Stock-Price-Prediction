@@ -1,5 +1,5 @@
 # Stock-Price-Prediction
-Final Year MCA Project on Stock Prediction through Deep Learning
+### hello myself yuvanesh Final Year MCA Project on Stock Prediction through Deep Learning
 
 # Stock-Price-Prediction
 Top Class Stock Price Prediction Project through Machine Learning Algorithms for Google. Easy Understanding and Implementation.
